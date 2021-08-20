@@ -17,7 +17,7 @@ Following SQL Queries were used
 Lastly, we used Power BI to present our data visualization. 
 
 
-You can find the entire artice [here](https://dianasatapathy.medium.com/the-art-of-visualization-8667c779c408)
+You can find the detailed article on [medium.com](https://dianasatapathy.medium.com/the-art-of-visualization-8667c779c408)
 
 
 
